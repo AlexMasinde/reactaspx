@@ -1,5 +1,5 @@
 ﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site1.master.cs" Inherits="WebApplication10.Site1" %>
-
+@using React.AspNet
 <!DOCTYPE html>
 
 <html>
